@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ###😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Olisaemeka Ejiofor
 I'm from Delta, Nigeria, I try to write code 💻 and solve problems .
 Skills: Dart (Flutter), Javascript (React), Php .
 
@@ -41,4 +42,3 @@ Skills: Dart (Flutter), Javascript (React), Php .
     📫 How to reach me: olisehemeke37@gmail.com
     😄 Pronouns: He/Him
 
-linkedin twitter github telegram
