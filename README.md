@@ -33,7 +33,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Olisaemeka Ejiofor
+
+
+
 I'm from Delta, Nigeria, I try to write code 💻 and solve problems .
+
+
+
 Skills: Dart (Flutter), Javascript (React), Php .
 
     🔭 I’m currently working on Flutter and Php apps
