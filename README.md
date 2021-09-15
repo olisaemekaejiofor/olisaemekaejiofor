@@ -40,10 +40,10 @@ I'm from Delta, Nigeria, I try to write code 💻 and solve problems .
 
 
 
-Skills: Dart (Flutter), Javascript (React).
+Skills: Dart (Flutter).
 
-    🔭 I’m currently working on Flutter and React apps
-    🌱 I’m currently learning React, Dart & Flutter
+    🔭 I’m currently working on Flutter apps
+    🌱 I’m currently learning Dart & Flutter
     👯 I’m looking to collaborate on open source projects.
     📫 How to reach me: olisehemeke37@gmail.com
     😄 Pronouns: He/Him
